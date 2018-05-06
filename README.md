@@ -17,21 +17,21 @@ Tools used for this step: Libreoffice, Text Editor
 
 ### 3) From the ideation report, UX design takes part and a UI/UX design report is generated, including the five layers of UX design, which are:
 
-* Product Objectives;
-* Specification;
-* Structure;
-* Navigation Design/Wireframing;
-* Interface/Prototyping;
+1. Product Objectives;
+1. Specification;
+1. Structure;
+1. Navigation Design/Wireframing;
+1. Interface/Prototyping;
 
 Tools used for this step: Libreofice (Objectives, Specification, Structure), Indesign + Adobe Suite + Axure + HTML + CSS + Bootstrap(Wireframing, Prototyping);
 
 ### 4) Using the UI/UX design report as supporting documentation, the REST API is designed, following this sequence:
 
-* Entities modeling/UML class diagram creation;
-* Operations under Entities modeling/UML use cases creation;
-* Database tables creation, based on the diagrams provided before;
-* REST API implementation, based on the diagrams created. This step is achieved using a REST API generator tool, like Strongloop;
-* REST API documentation, using a REST API specification format, like Swagger, for example;
+1. Entities modeling/UML class diagram creation;
+1. Operations under Entities modeling/UML use cases creation;
+1. Database tables creation, based on the diagrams provided before;
+1. REST API implementation, based on the diagrams created. This step is achieved using a REST API generator tool, like Strongloop;
+1. REST API documentation, using a REST API specification format, like Swagger, for example;
 
 Tools used for this step: UML documenting tools, MongoDB, Strongloop, Atom, VSCODE, NodeJs;
 
