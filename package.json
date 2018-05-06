@@ -1,0 +1,28 @@
+{
+  "name": "js-tdd-course",
+  "version": "1.0.0",
+  "description": "Library created in  the course \"Pratice JS with TDD\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tauvares/js-tdd-course.git"
+  },
+  "keywords": [
+    "js",
+    "tdd",
+    "development course",
+    "library"
+  ],
+  "author": "João Tavares Filho Segundo <tauvares@gmail.com> (http://www.jtdev.com.br/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tauvares/js-tdd-course/issues"
+  },
+  "homepage": "https://github.com/tauvares/js-tdd-course#readme",
+  "devDependencies": {
+    "eslint": "^4.19.1"
+  }
+}
