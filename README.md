@@ -50,7 +50,7 @@ Tools used for this step: Atom, VSCODE, terminal, github.com.
 ### 8) Go to step 1;
 
 
-## Practices adopted while programming
+## Practices adopted while programming (PRE-REQUISITES)
 
 To get a good quality during the development process, I try to adhere to best practices used in software development such as:
 
@@ -71,7 +71,18 @@ To get a good quality during the development process, I try to adhere to best pr
 ### 4) Use of ESLint (Right now I prefer the airbnb style for Javascript)
 
 * To maintain styling uniformity in the code, helping other developers to easily understand the source code
+
+### 5) Create file .editorconfig file
+
+* To respect automaticaly the ESLint rules according the codestyling adopted
+
+### 6) Config the npm scripts inside package.json to easily run the ESLint
+
+* Allowing the app to be checked before push the development branch to the github repository 
     
+### 7) Install Husky module
+
+* Checks the code using ESLint and npm scripts before commit/pushing files using git, and only permits clean code to be commited/pushed
 
 ## License
 
